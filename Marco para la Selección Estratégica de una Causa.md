@@ -57,11 +57,3 @@ El ajuste personal debe considerarse según las capacidades y valores de cada in
 
 ### Conclusión
 Este marco proporciona una estructura que permite tomar decisiones informadas al priorizar causas, balanceando factores objetivos con la idoneidad personal. La aplicación de este marco fomenta elecciones de carrera que maximizan el impacto y el beneficio social, guiando a los individuos hacia una dirección profesional con propósito.
-
-"""
-
-# Saving the content to a markdown file
-with open("/mnt/data/Marco_para_la_Seleccion_Estrategica_de_una_Causa.md", "w") as file:
-    file.write(content)
-
-"/mnt/data/Marco_para_la_Seleccion_Estrategica_de_una_Causa.md"
