@@ -1,7 +1,7 @@
 # Teoría de Cambio del Observatorio de Riesgos Catastróficos Globales (ORCG)
 
 ## Resumen
-El Observatorio de Riesgos Catastróficos Globales (ORCG) es una organización de diplomacia científica cuyo objetivo es impulsar la gestión de riesgos catastróficos globales (RCG) en América Latina y España. Conecta tomadores de decisiones con expertos y genera publicaciones basadas en evidencia para fomentar políticas públicas efectivas. 
+El **Observatorio de Riesgos Catastróficos Globales (ORCG)** es una organización de diplomacia científica cuyo objetivo es impulsar la gestión de riesgos catastróficos globales (RCG) en América Latina y España. Conecta tomadores de decisiones con expertos y genera publicaciones basadas en evidencia para fomentar políticas públicas efectivas.
 
 En los próximos tres años, el ORCG busca consolidarse como líder en el campo, promoviendo el conocimiento interdisciplinario y el diálogo entre actores académicos, políticos y sociales. Su misión es garantizar la supervivencia y el bienestar humano mediante estrategias de acción basadas en evidencia científica.
 
@@ -91,6 +91,25 @@ El impacto del ORCG se basa en su capacidad para generar evidencia científica, 
 - **BSL-3/BSL-4**: Niveles de bioseguridad que manejan patógenos peligrosos.
 - **RCG**: Riesgos catastróficos globales, amenazas a gran escala para la humanidad.
 
+## Herramientas y recursos de apoyo
+El ORCG trabaja en colaboración con diversas organizaciones y recursos para fortalecer sus estrategias. Algunas de estas entidades clave son:
+
+### Blue Dot Impact
+[Blue Dot Impact](https://bluedot.org/) es una plataforma que se especializa en la gestión de riesgos catastróficos globales, con un enfoque en el desarrollo de soluciones innovadoras para enfrentar estos desafíos.
+
+### Centro de Estudios de Riesgos Existenciales (CSER, Cambridge)
+[Centro de Estudios de Riesgos Existenciales (CSER)](https://www.cser.ac.uk/) es un instituto de investigación que se dedica a estudiar los riesgos existenciales y sus impactos a largo plazo en la humanidad, contribuyendo al desarrollo de estrategias para reducir estos riesgos.
+
+### Alliance to Feed the Earth in Disasters (ALLFED)
+La **Alianza para Alimentar a la Tierra en Desastres (ALLFED)** tiene como objetivo identificar diversas soluciones alimenticias resilientes y ayudar a gobiernos y empresas a implementar estas soluciones para alimentar a todos en caso de una catástrofe global. Su enfoque se centra en eventos como erupciones supervolcánicas, que podrían agotar los suministros de alimentos o el acceso a ellos para el 5% de la población mundial o más. Más información en [ALLFED](https://allfed.info/).
+
+### Nuclear Threat Initiative (NTI)
+La **Nuclear Threat Initiative (NTI)** trabaja para prevenir el uso de armas nucleares y otros riesgos relacionados con la tecnología nuclear. Se dedica a la promoción de políticas globales y diplomáticas para reducir la amenaza nuclear. Más información en [NTI](https://www.nti.org/).
+
 ## Referencias
 - [Nuestra Teoría del Cambio - ORCG](https://www.orcg.info/nuestra-teoria-del-cambio)
 - [VF - Teoría de Cambio del ORCG (PDF)](https://static1.squarespace.com/static/60c0fe48b1480d2dddf3bff9/t/65d660f970b8a7283e6f3606/1708548346523/VF_+Teor%C3%ADa+de+cambio+ORCG.pdf)
+
+---
+
+Este análisis ofrece un panorama completo de la teoría de cambio del ORCG, integrando los recursos y organizaciones colaborativas que son clave para el éxito de sus estrategias.
